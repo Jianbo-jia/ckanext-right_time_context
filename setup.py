@@ -35,8 +35,8 @@ setup(
     classifiers=[
         'Development Status :: 5 - Production/Stable',
         'License :: OSI Approved :: GNU Affero General Public License v3 or later (AGPLv3+)',
-        'Programming Language :: Python :: 2',
-        'Programming Language :: Python :: 2.7',
+        'Programming Language :: Python :: 3',
+        'Programming Language :: Python :: 3.8',
     ],
     packages=find_packages(exclude=['contrib', 'docs', 'tests*']),
     install_requires=[],
